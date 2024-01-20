@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.0.96",
+    "@nuxtjs/google-fonts": "^2.0.0",
+    "@nuxtjs/robots": "^3.0.0",
+    "@pinia/nuxt": "^0.4.6",
+    "apexcharts": "^3.35.0",
+    "nuxt": "^3.1.2",
+    "nuxt-icon": "^0.2.10",
+    "pinia": "^2.0.30",
+    "sass": "^1.56.1",
+    "sweetalert2": "^11.7.1",
+    "vue3-apexcharts": "^1.4.1",
+    "vuetify": "^3.1.2"
+  },
+  "dependencies": {
+    "vite-plugin-vuetify": "^1.0.2"
+  }
+}
